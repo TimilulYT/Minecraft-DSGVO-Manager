@@ -1,0 +1,8 @@
+name: DSGVOPlugin
+main: de.timilul.dSGVOManager.DSGVOManager
+version: 1.0
+api-version: 1.20
+commands:
+  dsgvo:
+    description: Akzeptiere oder lehne die DSGVO ab.
+    usage: /dsgvo [akzeptieren|ablehnen]
